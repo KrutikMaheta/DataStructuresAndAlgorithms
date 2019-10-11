@@ -10,8 +10,8 @@
 
 package problems;
 
-import basic.LinkedList;
-import basic.ListNode;
+import implementation.LinkedList;
+import implementation.ListNode;
 
 public class AdditionOfLinkedList {
 	static LinkedList list1 = new LinkedList();

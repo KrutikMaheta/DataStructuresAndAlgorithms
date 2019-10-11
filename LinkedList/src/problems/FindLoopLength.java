@@ -1,7 +1,11 @@
+/**
+ * Write a program to check if the loop exists in the given LinkedList
+ * if exists then calculate its length.
+ */
 package problems;
 
-import basic.LinkedList;
-import basic.ListNode;
+import implementation.LinkedList;
+import implementation.ListNode;
 
 public class FindLoopLength {
 	static LinkedList list = new LinkedList();

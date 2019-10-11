@@ -1,7 +1,11 @@
+/**
+ * Write a function to get the intersection point of two Linked Lists. 
+ */
+
 package problems;
 
-import basic.LinkedList;
-import basic.ListNode;
+import implementation.LinkedList;
+import implementation.ListNode;
 
 public class IntersectingLinkedList {
 

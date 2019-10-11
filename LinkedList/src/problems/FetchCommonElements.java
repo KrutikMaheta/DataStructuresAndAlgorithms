@@ -11,8 +11,8 @@
  */
 package problems;
 
-import basic.LinkedList;
-import basic.ListNode;
+import implementation.LinkedList;
+import implementation.ListNode;
 
 public class FetchCommonElements {
 
