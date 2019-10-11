@@ -1,4 +1,9 @@
-package basic;
+/**
+ * Implementation of Doubly LinkedList
+ * Supporting Files: DLLNode.java and DoublyLinkedListClient.java
+ */
+
+package implementation;
 
 public class DoublyLinkedList {
 	private DLLNode head;

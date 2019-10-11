@@ -1,4 +1,9 @@
-package basic;
+/**
+ * Implementation of Circular LinkedList
+ * Supporting Files: CLLNode.java and CircularLinkedListClient.java
+ */
+
+package implementation;
 
 public class CircularLinkedList {
 	protected CLLNode tail;
@@ -102,6 +107,7 @@ public class CircularLinkedList {
 		}
 		return cur.getData();
 	}
+
 	public CLLNode getTail() {
 		return tail;
 	}
@@ -109,6 +115,5 @@ public class CircularLinkedList {
 	public void setTail(CLLNode tail) {
 		this.tail = tail;
 	}
-
 
 }

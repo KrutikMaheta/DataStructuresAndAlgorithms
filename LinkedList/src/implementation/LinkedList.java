@@ -1,4 +1,9 @@
-package basic;
+/**
+ * Implementation of Doubly LinkedList
+ * Supporting Files: ListNode.java and LinkedListClient.java
+ */
+
+package implementation;
 
 public class LinkedList {
 	private int length;

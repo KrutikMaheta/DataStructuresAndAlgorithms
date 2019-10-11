@@ -1,4 +1,4 @@
-package basic;
+package implementation;
 
 public class DLLNode {
 	private int data;
