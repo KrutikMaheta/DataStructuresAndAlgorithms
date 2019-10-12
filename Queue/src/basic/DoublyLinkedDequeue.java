@@ -1,3 +1,9 @@
+/**
+ * Implement the Dequeue using the Doubly LinkedList
+ * Supporting Files: DoublyLinkedDequeueClient.java, DLLNode.java
+ * 
+ */
+
 package basic;
 
 public class DoublyLinkedDequeue {

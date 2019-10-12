@@ -1,3 +1,10 @@
+/**
+ * Implement the queue using the LinkedList.
+ * Supporting Files: 	LinkedQueue.java &
+ * 						ListNode.java
+ * 						Queue.java
+ */
+
 package basic;
 
 public class LinkedQueue implements Queue {

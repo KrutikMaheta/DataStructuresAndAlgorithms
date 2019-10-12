@@ -1,3 +1,9 @@
+/**
+ * Implement the queue using an array.
+ * 
+ * Supporting files: ArrayQueueClient.java
+ */
+
 package basic;
 
 public class ArrayQueue implements Queue {

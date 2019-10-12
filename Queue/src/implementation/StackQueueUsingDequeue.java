@@ -1,3 +1,7 @@
+/**
+ * Implement the stack using dequeue
+ */
+
 package implementation;
 
 import basic.DoublyLinkedDequeue;

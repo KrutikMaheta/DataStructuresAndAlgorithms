@@ -1,3 +1,9 @@
+/**
+ * Implement the priority queue using LinkedList
+ * Supporting Files: 	LinkedPriorityQueueClient.java
+ * 						PriorityListNode.java
+ */
+
 package basic;
 
 public class LinkedPriorityQueue {
