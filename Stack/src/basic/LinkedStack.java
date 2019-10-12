@@ -1,3 +1,10 @@
+/**
+ * Implement stack using LinkedList
+ * 
+ * Supporting File: LinkedStackClient.java
+ * 					ListNode.java
+ * 					Stack.java
+ */
 package basic;
 
 import java.util.EmptyStackException;
@@ -59,7 +66,6 @@ public class LinkedStack<T> {
 			cur.setNext(prev);
 			prev = cur;
 			cur = next;
-
 		}
 		top = prev;
 	}

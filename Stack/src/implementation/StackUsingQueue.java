@@ -1,4 +1,9 @@
-//	Push operation costly
+/**
+ * Implement Stack using queue
+ * 
+ * Push operation costly
+ * 
+ */
 
 package implementation;
 

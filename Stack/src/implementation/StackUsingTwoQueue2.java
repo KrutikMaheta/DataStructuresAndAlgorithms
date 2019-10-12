@@ -1,4 +1,10 @@
-//	By making pop operation costly - Preferred approach
+/**
+ * Creation of stack using 2 queues
+ * 
+ * By making pop operation costly - Preferred approach
+ * 
+ */
+
 package implementation;
 
 import java.util.EmptyStackException;

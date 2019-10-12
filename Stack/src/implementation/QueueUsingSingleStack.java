@@ -1,4 +1,10 @@
-//	Dequeue operation costly
+/**
+ * Creation of  a queue using stack
+ * 
+ * Dequeue operation costly
+ * 
+ */
+
 package implementation;
 
 import java.util.Stack;

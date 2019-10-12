@@ -1,4 +1,10 @@
-//	By making push operation costly
+/**
+ * Creation of stack using 2 queues
+ * 
+ * By making push operation costly
+ * 
+ */
+
 package implementation;
 
 import java.util.EmptyStackException;
@@ -41,11 +47,11 @@ public class StackUsingTwoQueue {
 		StackUsingTwoQueue stack = new StackUsingTwoQueue();
 		stack.push(1);
 		stack.push(2);
-	//	System.out.println(stack.pop());
+		// System.out.println(stack.pop());
 		stack.push(3);
 
-		//System.out.println(stack.pop());
-	//	System.out.println(stack.pop());
+		// System.out.println(stack.pop());
+		// System.out.println(stack.pop());
 		stack.push(4);
 		System.out.println(stack.pop());
 	}

@@ -1,3 +1,11 @@
+/**
+ * Implement a dynamically growing stack
+ * 
+ * Supporting files: 	DynamicArrayStackClient.java
+ * 						Stack.java
+ * 
+ */
+
 package basic;
 
 public class DynamicArrayStack implements Stack {

@@ -1,5 +1,9 @@
-//	Enqueue operation costly
-
+/**
+ * Creation of  a queue using 2 stacks
+ * 
+ * Enqueue operation costly
+ * 
+ */
 package implementation;
 
 import basic.LinkedStack;

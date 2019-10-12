@@ -1,6 +1,13 @@
+/**
+ * Implement Fixed size stack
+ * 
+ * Supporting files: 	FixedArrayStackClient.java
+ * 						Stack.java
+ * 
+ */
 package basic;
 
-public class FixedArrayStack implements Stack{
+public class FixedArrayStack implements Stack {
 	// Length of an array used to implement the stack
 	private int capacity;
 	// Default array capacity

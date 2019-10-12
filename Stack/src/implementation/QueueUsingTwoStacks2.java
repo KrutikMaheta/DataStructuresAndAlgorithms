@@ -1,4 +1,9 @@
-//	deQueue operation costly - - Preferred approach
+/**
+ * Creation of  a queue using 2 stacks
+ * 
+ * deQueue operation costly - - Preferred approach
+ * 
+ */
 
 package implementation;
 
